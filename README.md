@@ -65,7 +65,7 @@ ConnectionString.txt file is created in order to store the connection string saf
 Server=myServerAddress; Database=myDataBase; User Id=myUsername; Password=myPassword;
 ```
 
-## SQL Tables And Store Procedures
+## SQL Tables And Stored Procedures
 
 Database operations are done by creating these 4 tables and 1 stored procedure. 
 
