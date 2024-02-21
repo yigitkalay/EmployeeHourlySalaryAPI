@@ -1,4 +1,4 @@
-# Employee Hourly Salary API
+# Employee Hourly Salary API 💸
 
 This project provides hourly salaries as an API by looking at the entry and exit hours of the employees. It is designed with the awareness that the hourly wage of each employee and unit is different. Employee and date-based queries can be made with employeeId, startDate, endDate parameters.
 
